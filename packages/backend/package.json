@@ -39,7 +39,7 @@
     "svix": "^1.86.0"
   },
   "devDependencies": {
-    "@clerk/backend": "^2.33.0",
+    "@clerk/backend": "^3.0.1",
     "@convex-dev/eslint-plugin": "^1.1.1",
     "@edge-runtime/vm": "^5.0.0",
     "@repo/typescript-config": "workspace:*",
