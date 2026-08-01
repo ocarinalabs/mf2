@@ -21,7 +21,7 @@
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
     "@types/react": "^19.2.17",
-    "typescript": "^6.0.3"
+    "typescript": "^7.0.2"
   },
   "peerDependencies": {
     "@clerk/clerk-expo": "^2.0.0",

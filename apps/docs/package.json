@@ -7,6 +7,6 @@
   },
   "devDependencies": {
     "mint": "^4.2.660",
-    "typescript": "^6.0.3"
+    "typescript": "^7.0.2"
   }
 }

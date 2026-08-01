@@ -41,7 +41,7 @@
     "react-native-css": "^3.0.7",
     "react-native-reanimated": "4.5.0",
     "react-native-screens": "4.25.2",
-    "typescript": "^6.0.3"
+    "typescript": "^7.0.2"
   },
   "peerDependencies": {
     "lucide-react-native": ">=0.300.0",
